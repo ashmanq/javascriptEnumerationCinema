@@ -16,7 +16,7 @@ The app had the following requirements:
 * should be able to filter films by year
 
 # Run Tests
-To run the tests first install node modules:
+To run the tests first install the node modules:
 ```JavaScript
 npm install
 ```
